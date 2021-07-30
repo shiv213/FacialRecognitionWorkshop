@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\facial_recognition.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\main.py">
           <value>
             <Attribute>
